@@ -1,0 +1,2 @@
+# SFuncProg
+Functional programming concept
